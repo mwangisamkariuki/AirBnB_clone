@@ -11,11 +11,6 @@ class BaseModel:
     a class BaseModel that defines all common
     attributes/methods for other classes
     """
-
-    class BaseModel:
-
-    """Class from which all other classes will inherit"""
-
     def __init__(self, *args, **kwargs):
         """Initializes instance attributes
         Args:
