@@ -4,9 +4,15 @@ header {
     height: 70px;
     width: 100%;
     border-bottom: 1px solid #CCCCCC;
+    align-items: center;
+
 }
 .logo {
-    display:flex;
-    align-items: center;
-    padding-left: 20px;
+    background-image:url(../images/logo.png);
+    position: absolute;
+    width: 140px;
+    height: 65px;
+    left: 20px;
+    justify-content: center;
+
 }

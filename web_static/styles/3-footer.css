@@ -6,6 +6,6 @@ footer {
     border-top: 1px solid #CCCCCC;
     position:fixed;
     justify-content:center;
-    line-height:60px;
     display: flex;
+    align-items: center;
 }
